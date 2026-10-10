@@ -1,6 +1,6 @@
 # test
 first use
-aaaaaaaaaaa 
+The Conflict Line
 new use
 add from vs
 bbbbbbbbbbbbb ccccc
